@@ -43,7 +43,7 @@ const Page = () => {
                 <div className="flex items-center justify-center w-full md:w-1/2">
                     <div className="flex flex-col mt-6">
                         <h2 className="text-xl font-semibold">Our Contact Details</h2>
-                        <p>Email: info.blissbites@gmail.com</p>
+                        <p>Email: info.bakeboss@gmail.com</p>
                         <p>Phone: +88 01901-347623</p>
                         <p>Address: B.B Road, Chasara, Narayanganj</p>
                     </div>
